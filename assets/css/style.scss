@@ -7,3 +7,13 @@
     background-image: url("../images/pedro-lastra-5Bv3EcijAl4-unsplash.jpg");
     background-size: cover
 };
+
+.row {
+    display: flex;
+};
+
+.column {
+    flex: 50%;
+    font-size: large;
+    font-weight: bold;
+}
