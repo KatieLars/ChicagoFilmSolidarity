@@ -1,3 +1,5 @@
+### [Request Aid](https://forms.gle/QWHBESzY6QVyeYPr5)      [Give Aid](https://docs.google.com/spreadsheets/d/1Vtx1LzvLSNbugbvzN1l7d-AowXf3cAigkLzK-GkS3n4/edit?usp=sharing)
+
 The Chicago Film COVID-19 Solidarity Page was created by IATSE Local 476's Women's Committee and Pride Committee.  Copied from the powerful work of Chicago organizers Kelly Hayes and Delia Galindo's Chicago, we believe The Chicago Film COVID-19 Solidarity Page offers a simple way for Chicago film workers to support each other during this crisis. 
 
 We know that work comes and goes in our industry, and that any one of us at any time could be in a position of hardship and need support.  This is a perfect moment to stand together. 
@@ -12,11 +14,12 @@ If you have received assistance and your need has been met, kindly update the fo
 
 As Committees and generators of this form we will not be able to guarantee the validity of anyone's story. We don't want to meddle in personal lives, nor do we have the capacity to manage these forms.  Essentially we are providing this platform to do good and we are trusting our film family to act with honesty, kindness and integrity.
 
-The IATSE International is also creating a similar mutual aid platform named IATSE CARES that should be up and running in the next month.  If you are an IATSE member, we hope that you will sign up here as well. It may be found at (https://iatsecares.org/).
+The IATSE International is also creating a similar mutual aid platform named IATSE CARES that should be up and running in the next month.  If you are an IATSE member, we hope that you will sign up here as well. It may be found at [https://iatsecares.org](https://iatsecares.org).
 
 This being said, needs are imminent and it’s important that we be here for one another.  We are deeply grateful for the many ways we support each other on set and in these times of critical need.  
 
 In Solidarity,
+
 Margaret Hartmann, 476 Women's Committee and 476 Pride Committee.
 
 
