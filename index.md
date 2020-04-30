@@ -1,5 +1,5 @@
-<span><a href="https://forms.gle/QWHBESzY6QVyeYPr5">Testing Request Aid</a></span>
-<span><a href="https://docs.google.com/spreadsheets/d/1Vtx1LzvLSNbugbvzN1l7d-AowXf3cAigkLzK-GkS3n4/edit?usp=sharing">Give Aid</a></span>
+
+## &nbsp; &nbsp; &nbsp; &nbsp; [Request Aid](https://forms.gle/QWHBESzY6QVyeYPr5) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Give Aid](https://docs.google.com/spreadsheets/d/1Vtx1LzvLSNbugbvzN1l7d-AowXf3cAigkLzK-GkS3n4/edit?usp=sharing)
 
 The Chicago Film COVID-19 Solidarity Page was created by IATSE Local 476's Women's Committee and Pride Committee.  Copied from the powerful work of Chicago organizers Kelly Hayes and Delia Galindo's Chicago, we believe The Chicago Film COVID-19 Solidarity Page offers a simple way for Chicago film workers to support each other during this crisis. 
 
